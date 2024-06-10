@@ -3,7 +3,6 @@ package collectionClasses;
 /**
  * Class {@code MusicBandCreator} need to create music band
  *
- * @author Egorova Varvara
  */
 public class MovieCreator {
     /**
