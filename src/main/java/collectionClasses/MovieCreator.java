@@ -1,14 +1,14 @@
 package collectionClasses;
 
 /**
- * Class {@code MusicBandCreator} need to create music band
+ * Class {@code MovieCreator} need to create movie
  *
  */
 public class MovieCreator {
     /**
-     * Method creates music band from array of string arguments
-     * @param fields array of arguments for music band
-     * @return Music band or null
+     * Method creates movie from array of string arguments
+     * @param fields array of arguments for movie
+     * @return Movie or null
      */
     public static Movie createMovie(String[] fields){
         try{
